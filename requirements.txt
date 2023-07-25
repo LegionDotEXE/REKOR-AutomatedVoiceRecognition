@@ -2,3 +2,5 @@ SpeechRecognition
 faster-whisper
 Flask
 torch
+git+http://github.com/open/whisper.git
+
