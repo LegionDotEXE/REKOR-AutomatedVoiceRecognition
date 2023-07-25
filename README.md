@@ -1,2 +1,3 @@
-# REKOR
- CALHACKS PROJECT 2023
+# REKOR - An Automated Voice Recognition Application 
+
+ 
