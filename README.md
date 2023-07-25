@@ -8,7 +8,7 @@ To install the dependencies, simply run:
 pip install -r requirements.txt
 
 # ACKNOWLEDGEMENT
-This application was created with the implementation of the [whisper_real_time](https://github.com/davabase/whisper_real_time) and uses the Faster_Whsiper model.
+This application was created with the implementation of the [whisper_real_time](https://github.com/davabase/whisper_real_time)
 
 
 
