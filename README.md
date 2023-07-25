@@ -1,13 +1,13 @@
 # REKOR - An Automated Voice Recognition Application 
 
-This application is a real-time speech-to-text transcription tool that utilizes the Whisper-1 API model for smart transcription and the Translatepy library for translation, which will eventually be added later as I work on this. Whisper enables efficient speech transcription as well as speech recognition even on devices with 6GB or less VRAM. Multiple changes including speech recognition and visual changes to the transcription window will be pushed in the coming days. A wide range of customizations including the desired language of transcription, choosing the model, and microphone options will also be available soon.
+This application is a real-time speech-to-text transcription tool that utilizes the Whisper-1 API model for smart transcription and the Translatepy library for translation, which will eventually be added later as I work on this. Whisper enables efficient speech transcription as well as speech recognition even on devices with 6GB or less VRAM. As development progresses, we plan to introduce various enhancements, including improved speech recognition capabilities and visual changes to the transcription window. Additionally, users can expect a wide range of customization options, such as selecting the desired language for transcription, choosing different models, and selecting microphone preferences.
 
 Installation
 To install the necessary dependencies, follow these steps:
 
 Open your preferred environment and run the following command:
 Copy code
-pip install -r requirements.txt
+**pip install -r requirements.txt
 Additionally, Whisper requires the command-line tool ffmpeg to be installed on your system. Below are the installation instructions for different operating systems:
 Ubuntu or Debian:
 bash
