@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>REKOR - An Automated Voice Recognition Application</title>
+</head>
+<body>
+    <h1>REKOR - An Automated Voice Recognition Application</h1>
+    <p>This application is a real-time speech-to-text transcription tool that utilizes the Whisper-1 API model for smart transcription and the Translatepy library for translation, which will eventually be added later as I work on this. Whisper enables efficient speech transcription as well as speech recognition even on devices with 6GB or less VRAM. Multiple changes including speech recognition and visual changes to the transcription window will be pushed in the coming days. A wide range of customizations including the desired language of transcription, choosing the model, and microphone options will also be available soon.</p>
+
+    <h2>INSTALLATION</h2>
+    <p>To install the dependencies, simply run:</p>
+    <code>pip install -r requirements.txt</code>
+    <p>in your desired environment</p>
+
+    <p>Whisper also requires the command-line tool ffmpeg to be installed on your system:</p>
+    <ul>
+        <li>on Ubuntu or Debian<br>
+            <code>sudo apt update &amp;&amp; sudo apt install ffmpeg</code>
+        </li>
+        <li>on Arch Linux<br>
+            <code>sudo pacman -S ffmpeg</code>
+        </li>
+        <li>on MacOS using Homebrew (<a href="https://brew.sh/">https://brew.sh/</a>)<br>
+            <code>brew install ffmpeg</code>
+        </li>
+        <li>on Windows using Chocolatey (<a href="https://chocolatey.org/">https://chocolatey.org/</a>)<br>
+            <code>choco install ffmpeg</code>
+        </li>
+        <li>on Windows using Scoop (<a href="https://scoop.sh/">https://scoop.sh/</a>)<br>
+            <code>scoop install ffmpeg</code>
+        </li>
+    </ul>
+    <p>For more information on Whisper please see <a href="https://github.com/openai/whisper">https://github.com/openai/whisper</a></p>
+
+    <p>The code in this repository is public domain.</p>
+
+    <h2>ACKNOWLEDGEMENT</h2>
+    <p>This application was created with the implementation of the <a href="https://github.com/davabase/whisper_real_time">whisper_real_time</a></p>
+</body>
+</html>
+
