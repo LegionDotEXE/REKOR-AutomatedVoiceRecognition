@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Transcriptions</title>
+</head>
+<body>
+    <h1>Transcriptions</h1>
+    {% for transcription in transcriptions %}
+        <h3>Transcription:</h3>
+        <p>{{ transcription[0] }}</p>
+        <h3>Translation:</h3>
+        <p>{{ transcription[1] }}</p>
+        <hr>
+    {% endfor %}
+</body>
+</html>
