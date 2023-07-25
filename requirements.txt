@@ -1,0 +1,6 @@
+SpeechRecognition
+faster-whisper/Whisper-1 API
+Flask
+translatepy
+tk
+torch
