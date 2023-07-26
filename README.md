@@ -36,11 +36,9 @@ The code in this repository is public domain.
 This application was created with the implementation of the [whisper_real_time](https://github.com/davabase/whisper_real_time/tree/master) library, and we express our gratitude to its developers for their valuable contribution.
 
 # CONTRIBUTION
-For any questions, suggestions, or collaborations, please do contact. 
-
-
+We welcome contributions from the community. For any questions, suggestions, or collaborations, please feel free to open an issue or create a pull request.
 
 Thank you for using REKOR! We hope this automated voice recognition application enhances your transcription experience.
-# CONTRIBUTING
-We welcome contributions from the community. If you find any issues or have ideas for improvements, please feel free to open an issue or create a pull request.
+
+HAPPY TRANSCRIBING!
 
